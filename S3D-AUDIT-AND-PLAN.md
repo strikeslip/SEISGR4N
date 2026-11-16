@@ -1,6 +1,6 @@
 # S3D — Audit and Redevelopment Plan
 
-16 November 2026 · for SHOOK (D.V. Rogers) · Stage 0 deliverable, no code
+16 November 2026 · for SHOOK  · Stage 0 deliverable, no code
 
 ---
 
