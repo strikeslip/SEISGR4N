@@ -450,4 +450,4 @@ Console logs are prefixed `[SOS]` (strike takes, SEISGR4N takes, SEISSHIFT moves
 - **Velocity model:** IASP91 (Kennett & Engdahl, 1991).
 - **Instruments:** named in tribute to the artists listed. No samples or recordings of their work are used; all sound is synthesised or made from seismic data.
 
-**License:** to be set by the author.
+**License:** MIT
